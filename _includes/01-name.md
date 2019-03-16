@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Nadir Antonio Soza Solis
+### Managua-Nicaragua
+#### nadirss14@gmail.com 
